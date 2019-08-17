@@ -58,7 +58,7 @@ Si no sabes como hacerlo, no te preocupes, te guiaremos como hacerlo.
 
 ## Recursos
 
-> [tips para maquetar una paguina web](https://medium.com/@worldtechmakers/tips-para-maquetar-una-p%C3%A1gina-web-bc6b6788be1)
+> [TIPS PARA MAQUETAR UNA PÁGINA WEB](https://medium.com/@worldtechmakers/tips-para-maquetar-una-p%C3%A1gina-web-bc6b6788be1)
 
 > [HTML-5](https://www.w3schools.com/html/html5_intro.asp)
 
