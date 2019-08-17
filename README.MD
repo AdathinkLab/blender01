@@ -10,8 +10,7 @@ una mejor experiencia del usuario.
 
 Para lograr esto te presentamos 2 lenguajes que combinados proporcionan a 
 tu web más interactividad con un diseño más limpio y un código más simple: 
-[HTML5](https://developer.mozilla.org/es/docs/HTML/HTML-5)  Y  
-[CSS3](https://developer.mozilla.org/es/docs/Archive/CSS3).
+[HTML5](https://developer.mozilla.org/es/docs/HTML/HTML-5)  Y  [CSS3](https://developer.mozilla.org/es/docs/Archive/CSS3).
 
 ## Resumen del proyecto
 
